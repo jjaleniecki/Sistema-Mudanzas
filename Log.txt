@@ -1,0 +1,304 @@
+ESTADO INICIAL: 
+Ciudades: 
+Raiz:4700    HI:3400    HD:8300
+Nodo:3400    HI:2000    HD:4200
+Nodo:2000    HI:1744    HD:3100
+Nodo:1744    HI:1638    HD:1900
+Nodo:1638    HI:-    HD:-
+Nodo:1900    HI:-    HD:-
+Nodo:3100    HI:3000    HD:3300
+Nodo:3000    HI:-    HD:-
+Nodo:3300    HI:-    HD:-
+Nodo:4200    HI:3600    HD:4400
+Nodo:3600    HI:3500    HD:4000
+Nodo:3500    HI:-    HD:-
+Nodo:4000    HI:-    HD:-
+Nodo:4400    HI:-    HD:4600
+Nodo:4600    HI:-    HD:-
+Nodo:8300    HI:5500    HD:8500
+Nodo:5500    HI:5300    HD:6300
+Nodo:5300    HI:5000    HD:5400
+Nodo:5000    HI:-    HD:-
+Nodo:5400    HI:-    HD:-
+Nodo:6300    HI:5700    HD:8000
+Nodo:5700    HI:-    HD:-
+Nodo:8000    HI:-    HD:-
+Nodo:8500    HI:8324    HD:9400
+Nodo:8324    HI:8311    HD:8403
+Nodo:8311    HI:-    HD:-
+Nodo:8403    HI:-    HD:-
+Nodo:9400    HI:9103    HD:9410
+Nodo:9103    HI:-    HD:-
+Nodo:9410    HI:-    HD:-
+
+Rutas:
+El vertice 4400 apunta a 4600 con peso: 136.3
+El vertice 4400 apunta a 5000 con peso: 875.7
+
+El vertice 8500 apunta a 9400 con peso: 1641.8
+
+El vertice 3500 apunta a 6300 con peso: 1330.1
+
+El vertice 4700 apunta a 5400 con peso: 596.0
+
+El vertice 6300 apunta a 8000 con peso: 327.0
+El vertice 6300 apunta a 3500 con peso: 1330.1
+
+El vertice 5300 apunta a 3400 con peso: 1022.0
+El vertice 5300 apunta a 8300 con peso: 1289.6
+
+El vertice 1638 apunta a 1744 con peso: 45.3
+El vertice 1638 apunta a 8000 con peso: 643.0
+El vertice 1638 apunta a 1900 con peso: 71.3
+
+El vertice 1744 apunta a 1638 con peso: 45.3
+El vertice 1744 apunta a 1900 con peso: 71.7
+
+El vertice 4200 apunta a 4000 con peso: 161.5
+El vertice 4200 apunta a 3600 con peso: 762.9
+
+El vertice 4000 apunta a 4600 con peso: 345.5
+El vertice 4000 apunta a 4200 con peso: 161.5
+
+El vertice 5000 apunta a 5700 con peso: 397.1
+El vertice 5000 apunta a 4600 con peso: 911.1
+El vertice 5000 apunta a 8300 con peso: 1108.6
+El vertice 5000 apunta a 4400 con peso: 875.7
+
+El vertice 5700 apunta a 8300 con peso: 769.4
+El vertice 5700 apunta a 5000 con peso: 397.1
+El vertice 5700 apunta a 5500 con peso: 258.0
+
+El vertice 3000 apunta a 2000 con peso: 173.0
+El vertice 3000 apunta a 8000 con peso: 923.5
+
+El vertice 8403 apunta a 8311 con peso: 323.8
+
+El vertice 5400 apunta a 3100 con peso: 1006.1
+El vertice 5400 apunta a 4700 con peso: 596.0
+
+El vertice 3100 apunta a 5400 con peso: 1006.1
+El vertice 3100 apunta a 3400 con peso: 577.0
+
+El vertice 5500 apunta a 3600 con peso: 1616.4
+El vertice 5500 apunta a 3300 con peso: 1689.8
+El vertice 5500 apunta a 9103 con peso: 1572.0
+El vertice 5500 apunta a 5700 con peso: 258.0
+
+El vertice 9410 apunta a 3300 con peso: 4068.0
+El vertice 9410 apunta a 9103 con peso: 1734.0
+El vertice 9410 apunta a 9400 con peso: 579.4
+
+El vertice 3300 apunta a 9410 con peso: 4068.0
+El vertice 3300 apunta a 5500 con peso: 1689.8
+
+El vertice 9103 apunta a 9400 con peso: 1161.8
+El vertice 9103 apunta a 2000 con peso: 1461.2
+El vertice 9103 apunta a 9410 con peso: 1734.0
+El vertice 9103 apunta a 8300 con peso: 743.3
+El vertice 9103 apunta a 5500 con peso: 1572.0
+
+El vertice 8311 apunta a 8300 con peso: 88.2
+El vertice 8311 apunta a 8403 con peso: 323.8
+
+El vertice 3400 apunta a 8000 con peso: 1526.6
+El vertice 3400 apunta a 3100 con peso: 577.0
+El vertice 3400 apunta a 5300 con peso: 1022.0
+
+El vertice 8000 apunta a 3400 con peso: 1526.6
+El vertice 8000 apunta a 1638 con peso: 643.0
+El vertice 8000 apunta a 6300 con peso: 327.0
+El vertice 8000 apunta a 3000 con peso: 923.5
+
+El vertice 4600 apunta a 3600 con peso: 938.4
+El vertice 4600 apunta a 5000 con peso: 911.1
+El vertice 4600 apunta a 4000 con peso: 345.5
+El vertice 4600 apunta a 4400 con peso: 136.3
+
+El vertice 3600 apunta a 4600 con peso: 938.4
+El vertice 3600 apunta a 5500 con peso: 1616.4
+El vertice 3600 apunta a 4200 con peso: 762.9
+
+El vertice 9400 apunta a 2000 con peso: 2596.4
+El vertice 9400 apunta a 9103 con peso: 1161.8
+El vertice 9400 apunta a 9410 con peso: 579.4
+El vertice 9400 apunta a 8500 con peso: 1641.8
+
+El vertice 2000 apunta a 1900 con peso: 357.4
+El vertice 2000 apunta a 9400 con peso: 2596.4
+El vertice 2000 apunta a 3000 con peso: 173.0
+El vertice 2000 apunta a 9103 con peso: 1461.2
+
+El vertice 1900 apunta a 2000 con peso: 357.4
+El vertice 1900 apunta a 1744 con peso: 71.7
+El vertice 1900 apunta a 1638 con peso: 71.3
+
+El vertice 8324 apunta a 8300 con peso: 14.0
+
+El vertice 8300 apunta a 8324 con peso: 14.0
+El vertice 8300 apunta a 8311 con peso: 88.2
+El vertice 8300 apunta a 5700 con peso: 769.4
+El vertice 8300 apunta a 5300 con peso: 1289.6
+El vertice 8300 apunta a 5000 con peso: 1108.6
+El vertice 8300 apunta a 9103 con peso: 743.3
+
+
+Pedidos:
+{1744={2000=Pedido [O=1744, D=2000, F=21/12/2021, C=Cliente [DOC=DNI:43932048, Apellidos=HERNANDEZ, Nombres=FERNANDO, Telefono=298-5394722, Email=hernandezfer@gmail.com], V=20.0, B=10, CS=San Martin 2132, CD=Cordoba 212, P=true], 1900=Pedido [O=1744, D=1900, F=22/02/2023, C=Cliente [DOC=DNI:29380839, Apellidos=SANCHEZ, Nombres=MARCELA, Telefono=299-5923049, Email=marcelasanchez22@yahoo.com.ar], V=23.0, B=10, CS=Belgrano 192, CD=Corrientes 1021, P=true]}, 2000={3000=Pedido [O=2000, D=3000, F=12/10/2022, C=Cliente [DOC=DNI:32920192, Apellidos=GALLARDO, Nombres=MARCELO DANIEL, Telefono=911-6387212, Email=muniecoeterno@hotmail.com], V=9.12, B=18, CS=La Pampa 1045, CD=Buenos Aires 442, P=true]}, 4400={4000=Pedido [O=4400, D=4000, F=30/04/2020, C=Cliente [DOC=DNI:23931210, Apellidos=ALONSO, Nombres=NORBERTO OSVALDO, Telefono=911-4930123, Email=betoalonso@yahoo.com.ar], V=15.3, B=5, CS=Jujuy 239, CD=Roca 2932, P=false] | Pedido [O=4400, D=4000, F=23/02/2024, C=Cliente [DOC=DNI:33291248, Apellidos=ROMERO, Nombres=MARISA, Telefono=299-4859302, Email=romeromar77@hotmail.com], V=19.0, B=12, CS=La Pampa 2092, CD=San Luis 677, P=false]}, 8000={4700=Pedido [O=8000, D=4700, F=28/10/2020, C=Cliente [DOC=DNI:22483948, Apellidos=MARTINEZ, Nombres=IGNACIO, Telefono=299-5479273, Email=nachomartinez013@gmail.com], V=11.0, B=4, CS=Jujuy 893, CD=Roca 1902, P=true]}, 8500={9410=Pedido [O=8500, D=9410, F=02/09/2023, C=Cliente [DOC=DNI:41382039, Apellidos=GOMEZ, Nombres=FEDERICO, Telefono=911-4849302, Email=fedegomez023@gmail.com], V=9.3, B=4, CS=Belgrano 923, CD=Cordoba 409, P=true], 3300=Pedido [O=8500, D=3300, F=12/09/2020, C=Cliente [DOC=PAS:19382093, Apellidos=JEREZ, Nombres=EZEQUIEL, Telefono=351-9320410, Email=ezejerez111@gmail.com], V=10.0, B=9, CS=Mendoza 412, CD=Buenos Aires 1092, P=true]}, 3400={8300=Pedido [O=3400, D=8300, F=19/12/2023, C=Cliente [DOC=DNI:33294039, Apellidos=HERRERA, Nombres=JOAQUIN, Telefono=299-4937495, Email=joacoherrera01@gmail.com], V=23.0, B=9, CS=Belgrano 1200, CD=Mitre 3100, P=false]}, 3000={2000=Pedido [O=3000, D=2000, F=09/09/2023, C=Cliente [DOC=PAS:39204123, Apellidos=DIAZ, Nombres=ENRIQUE, Telefono=299-4810384, Email=diazenrique93@hotmail.com], V=12.9, B=6, CS=Salta 922, CD=San Luis 322, P=false], 9103=Pedido [O=3000, D=9103, F=28/09/2021, C=Cliente [DOC=DNI:44912018, Apellidos=PEREZ, Nombres=ENZO NICOLAS, Telefono=911-4685902, Email=enzonicop24@gmail.com], V=11.0, B=8, CS=La Rioja 912, CD=Oneto 921, P=true]}, 4200={4600=Pedido [O=4200, D=4600, F=29/06/2022, C=Cliente [DOC=DNI:43382940, Apellidos=URRUTIA, Nombres=MILAGROS, Telefono=299-6382983, Email=miliurrutia32@gmail.com], V=19.0, B=9, CS=Salta 3092, CD=Sarmiento 841, P=true]}, 8300={8403=Pedido [O=8300, D=8403, F=12/03/2020, C=Cliente [DOC=DNI:42903849, Apellidos=MEDINA, Nombres=GERMAN, Telefono=298-4920876, Email=germedina92@gmail.com], V=9.0, B=5, CS=Roca 1329, CD=Lote 52, P=true], 8324=Pedido [O=8300, D=8324, F=23/12/2022, C=Cliente [DOC=DNI:38940293, Apellidos=FERNANDEZ, Nombres=ENZO JEREMIAS, Telefono=911-6821239, Email=enzofer912@gmail.com], V=21.0, B=11, CS=Av. del Trabajador 992, CD=San Martin 1230, P=true] | Pedido [O=8300, D=8324, F=02/03/2022, C=Cliente [DOC=PAS:21923847, Apellidos=MARTINEZ, Nombres=GRACIELA, Telefono=351-4348260, Email=martinezgraciela13@hotmail.com], V=9.0, B=4, CS=Av. Olascoaga 232, CD=Alem 421, P=true], 8311=Pedido [O=8300, D=8311, F=12/08/2023, C=Cliente [DOC=DNI:44103259, Apellidos=JALENIECKI, Nombres=JEREMIAS, Telefono=299-6379636, Email=jalenieckijeremias@gmail.com], V=13.0, B=5, CS=Sarmiento 3400, CD=Roca 2100, P=true]}, 3500={8000=Pedido [O=3500, D=8000, F=30/08/2023, C=Cliente [DOC=DNI:33291248, Apellidos=ROMERO, Nombres=MARISA, Telefono=299-4859302, Email=romeromar77@hotmail.com], V=12.0, B=5, CS=Jujuy 231, CD=Salta 329, P=false]}, 1900={2000=Pedido [O=1900, D=2000, F=09/02/2024, C=Cliente [DOC=PAS:39204123, Apellidos=DIAZ, Nombres=ENRIQUE, Telefono=299-4810384, Email=diazenrique93@hotmail.com], V=19.0, B=4, CS=Corrientes 332, CD=La Pampa 2910, P=false], 3000=Pedido [O=1900, D=3000, F=07/07/2023, C=Cliente [DOC=DNI:39720932, Apellidos=RAMIREZ, Nombres=JUAN IGNACIO, Telefono=299-5829384, Email=juanignacioram@hotmail.com.ar], V=13.0, B=6, CS=Entre Rios 921, CD=Salta 728, P=true]}}
+
+Clientes:
+{PAS:19382093=Cliente [DOC=PAS:19382093, Apellidos=JEREZ, Nombres=EZEQUIEL, Telefono=351-9320410, Email=ezejerez111@gmail.com], DNI:23931210=Cliente [DOC=DNI:23931210, Apellidos=ALONSO, Nombres=NORBERTO OSVALDO, Telefono=911-4930123, Email=betoalonso@yahoo.com.ar], PAS:39204123=Cliente [DOC=PAS:39204123, Apellidos=DIAZ, Nombres=ENRIQUE, Telefono=299-4810384, Email=diazenrique93@hotmail.com], DNI:33294039=Cliente [DOC=DNI:33294039, Apellidos=HERRERA, Nombres=JOAQUIN, Telefono=299-4937495, Email=joacoherrera01@gmail.com], DNI:42903849=Cliente [DOC=DNI:42903849, Apellidos=MEDINA, Nombres=GERMAN, Telefono=298-4920876, Email=germedina92@gmail.com], DNI:43382940=Cliente [DOC=DNI:43382940, Apellidos=URRUTIA, Nombres=MILAGROS, Telefono=299-6382983, Email=miliurrutia32@gmail.com], DNI:29380839=Cliente [DOC=DNI:29380839, Apellidos=SANCHEZ, Nombres=MARCELA, Telefono=299-5923049, Email=marcelasanchez22@yahoo.com.ar], DNI:43932048=Cliente [DOC=DNI:43932048, Apellidos=HERNANDEZ, Nombres=FERNANDO, Telefono=298-5394722, Email=hernandezfer@gmail.com], DNI:41382039=Cliente [DOC=DNI:41382039, Apellidos=GOMEZ, Nombres=FEDERICO, Telefono=911-4849302, Email=fedegomez023@gmail.com], DNI:33291248=Cliente [DOC=DNI:33291248, Apellidos=ROMERO, Nombres=MARISA, Telefono=299-4859302, Email=romeromar77@hotmail.com], DNI:32920192=Cliente [DOC=DNI:32920192, Apellidos=GALLARDO, Nombres=MARCELO DANIEL, Telefono=911-6387212, Email=muniecoeterno@hotmail.com], PAS:21923847=Cliente [DOC=PAS:21923847, Apellidos=MARTINEZ, Nombres=GRACIELA, Telefono=351-4348260, Email=martinezgraciela13@hotmail.com], DNI:38940293=Cliente [DOC=DNI:38940293, Apellidos=FERNANDEZ, Nombres=ENZO JEREMIAS, Telefono=911-6821239, Email=enzofer912@gmail.com], PAS:19324027=Cliente [DOC=PAS:19324027, Apellidos=GRAMAJO, Nombres=AGOSTINA, Telefono=299-5487839, Email=agosgrama0@gmail.com], DNI:39720932=Cliente [DOC=DNI:39720932, Apellidos=RAMIREZ, Nombres=JUAN IGNACIO, Telefono=299-5829384, Email=juanignacioram@hotmail.com.ar], DNI:22483948=Cliente [DOC=DNI:22483948, Apellidos=MARTINEZ, Nombres=IGNACIO, Telefono=299-5479273, Email=nachomartinez013@gmail.com], PAS:23239487=Cliente [DOC=PAS:23239487, Apellidos=FIGUEROA, Nombres=HERNANDO, Telefono=911-5374921, Email=herfigueroaa@hotmail.com], DNI:44912018=Cliente [DOC=DNI:44912018, Apellidos=PEREZ, Nombres=ENZO NICOLAS, Telefono=911-4685902, Email=enzonicop24@gmail.com], DNI:44103259=Cliente [DOC=DNI:44103259, Apellidos=JALENIECKI, Nombres=JEREMIAS, Telefono=299-6379636, Email=jalenieckijeremias@gmail.com], DNI:29384795=Cliente [DOC=DNI:29384795, Apellidos=FERNANDEZ, Nombres=MARCELO, Telefono=911-5428490, Email=marcefer123@yahoo.com.ar]}
+------------------------------
+
+------------------------------
+ESTADO FINAL: 
+Ciudades: 
+Raiz:4700    HI:3400    HD:8300
+Nodo:3400    HI:2000    HD:4200
+Nodo:2000    HI:1744    HD:3100
+Nodo:1744    HI:1638    HD:1900
+Nodo:1638    HI:-    HD:-
+Nodo:1900    HI:-    HD:-
+Nodo:3100    HI:3000    HD:3300
+Nodo:3000    HI:-    HD:-
+Nodo:3300    HI:-    HD:-
+Nodo:4200    HI:3600    HD:4400
+Nodo:3600    HI:3500    HD:4000
+Nodo:3500    HI:-    HD:-
+Nodo:4000    HI:-    HD:-
+Nodo:4400    HI:-    HD:4600
+Nodo:4600    HI:-    HD:-
+Nodo:8300    HI:5500    HD:8500
+Nodo:5500    HI:5300    HD:6300
+Nodo:5300    HI:5000    HD:5400
+Nodo:5000    HI:-    HD:-
+Nodo:5400    HI:-    HD:-
+Nodo:6300    HI:5700    HD:8000
+Nodo:5700    HI:-    HD:-
+Nodo:8000    HI:-    HD:-
+Nodo:8500    HI:8324    HD:9400
+Nodo:8324    HI:8311    HD:8403
+Nodo:8311    HI:-    HD:-
+Nodo:8403    HI:-    HD:-
+Nodo:9400    HI:9103    HD:9410
+Nodo:9103    HI:-    HD:-
+Nodo:9410    HI:-    HD:-
+
+Rutas:
+El vertice 4400 apunta a 4600 con peso: 136.3
+El vertice 4400 apunta a 5000 con peso: 875.7
+
+El vertice 8500 apunta a 9400 con peso: 1641.8
+
+El vertice 3500 apunta a 6300 con peso: 1330.1
+
+El vertice 4700 apunta a 5400 con peso: 596.0
+
+El vertice 6300 apunta a 8000 con peso: 327.0
+El vertice 6300 apunta a 3500 con peso: 1330.1
+
+El vertice 5300 apunta a 3400 con peso: 1022.0
+El vertice 5300 apunta a 8300 con peso: 1289.6
+
+El vertice 1638 apunta a 1744 con peso: 45.3
+El vertice 1638 apunta a 8000 con peso: 643.0
+El vertice 1638 apunta a 1900 con peso: 71.3
+
+El vertice 1744 apunta a 1638 con peso: 45.3
+El vertice 1744 apunta a 1900 con peso: 71.7
+
+El vertice 4200 apunta a 4000 con peso: 161.5
+El vertice 4200 apunta a 3600 con peso: 762.9
+
+El vertice 4000 apunta a 4600 con peso: 345.5
+El vertice 4000 apunta a 4200 con peso: 161.5
+
+El vertice 5000 apunta a 5700 con peso: 397.1
+El vertice 5000 apunta a 4600 con peso: 911.1
+El vertice 5000 apunta a 8300 con peso: 1108.6
+El vertice 5000 apunta a 4400 con peso: 875.7
+
+El vertice 5700 apunta a 8300 con peso: 769.4
+El vertice 5700 apunta a 5000 con peso: 397.1
+El vertice 5700 apunta a 5500 con peso: 258.0
+
+El vertice 3000 apunta a 2000 con peso: 173.0
+El vertice 3000 apunta a 8000 con peso: 923.5
+
+El vertice 8403 apunta a 8311 con peso: 323.8
+
+El vertice 5400 apunta a 3100 con peso: 1006.1
+El vertice 5400 apunta a 4700 con peso: 596.0
+
+El vertice 3100 apunta a 5400 con peso: 1006.1
+El vertice 3100 apunta a 3400 con peso: 577.0
+
+El vertice 5500 apunta a 3600 con peso: 1616.4
+El vertice 5500 apunta a 3300 con peso: 1689.8
+El vertice 5500 apunta a 9103 con peso: 1572.0
+El vertice 5500 apunta a 5700 con peso: 258.0
+
+El vertice 9410 apunta a 3300 con peso: 4068.0
+El vertice 9410 apunta a 9103 con peso: 1734.0
+El vertice 9410 apunta a 9400 con peso: 579.4
+
+El vertice 3300 apunta a 9410 con peso: 4068.0
+El vertice 3300 apunta a 5500 con peso: 1689.8
+
+El vertice 9103 apunta a 9400 con peso: 1161.8
+El vertice 9103 apunta a 2000 con peso: 1461.2
+El vertice 9103 apunta a 9410 con peso: 1734.0
+El vertice 9103 apunta a 8300 con peso: 743.3
+El vertice 9103 apunta a 5500 con peso: 1572.0
+
+El vertice 8311 apunta a 8300 con peso: 88.2
+El vertice 8311 apunta a 8403 con peso: 323.8
+
+El vertice 3400 apunta a 8000 con peso: 1526.6
+El vertice 3400 apunta a 3100 con peso: 577.0
+El vertice 3400 apunta a 5300 con peso: 1022.0
+
+El vertice 8000 apunta a 3400 con peso: 1526.6
+El vertice 8000 apunta a 1638 con peso: 643.0
+El vertice 8000 apunta a 6300 con peso: 327.0
+El vertice 8000 apunta a 3000 con peso: 923.5
+
+El vertice 4600 apunta a 3600 con peso: 938.4
+El vertice 4600 apunta a 5000 con peso: 911.1
+El vertice 4600 apunta a 4000 con peso: 345.5
+El vertice 4600 apunta a 4400 con peso: 136.3
+
+El vertice 3600 apunta a 4600 con peso: 938.4
+El vertice 3600 apunta a 5500 con peso: 1616.4
+El vertice 3600 apunta a 4200 con peso: 762.9
+
+El vertice 9400 apunta a 2000 con peso: 2596.4
+El vertice 9400 apunta a 9103 con peso: 1161.8
+El vertice 9400 apunta a 9410 con peso: 579.4
+El vertice 9400 apunta a 8500 con peso: 1641.8
+
+El vertice 2000 apunta a 1900 con peso: 357.4
+El vertice 2000 apunta a 9400 con peso: 2596.4
+El vertice 2000 apunta a 3000 con peso: 173.0
+El vertice 2000 apunta a 9103 con peso: 1461.2
+
+El vertice 1900 apunta a 2000 con peso: 357.4
+El vertice 1900 apunta a 1744 con peso: 71.7
+El vertice 1900 apunta a 1638 con peso: 71.3
+
+El vertice 8324 apunta a 8300 con peso: 14.0
+
+El vertice 8300 apunta a 8324 con peso: 14.0
+El vertice 8300 apunta a 8311 con peso: 88.2
+El vertice 8300 apunta a 5700 con peso: 769.4
+El vertice 8300 apunta a 5300 con peso: 1289.6
+El vertice 8300 apunta a 5000 con peso: 1108.6
+El vertice 8300 apunta a 9103 con peso: 743.3
+
+
+Pedidos:
+{1744={2000=Pedido [O=1744, D=2000, F=21/12/2021, C=Cliente [DOC=DNI:43932048, Apellidos=HERNANDEZ, Nombres=FERNANDO, Telefono=298-5394722, Email=hernandezfer@gmail.com], V=20.0, B=10, CS=San Martin 2132, CD=Cordoba 212, P=true], 1900=Pedido [O=1744, D=1900, F=22/02/2023, C=Cliente [DOC=DNI:29380839, Apellidos=SANCHEZ, Nombres=MARCELA, Telefono=299-5923049, Email=marcelasanchez22@yahoo.com.ar], V=23.0, B=10, CS=Belgrano 192, CD=Corrientes 1021, P=true]}, 2000={3000=Pedido [O=2000, D=3000, F=12/10/2022, C=Cliente [DOC=DNI:32920192, Apellidos=GALLARDO, Nombres=MARCELO DANIEL, Telefono=911-6387212, Email=muniecoeterno@hotmail.com], V=9.12, B=18, CS=La Pampa 1045, CD=Buenos Aires 442, P=true]}, 4400={4000=Pedido [O=4400, D=4000, F=30/04/2020, C=Cliente [DOC=DNI:23931210, Apellidos=ALONSO, Nombres=NORBERTO OSVALDO, Telefono=911-4930123, Email=betoalonso@yahoo.com.ar], V=15.3, B=5, CS=Jujuy 239, CD=Roca 2932, P=false] | Pedido [O=4400, D=4000, F=23/02/2024, C=Cliente [DOC=DNI:33291248, Apellidos=ROMERO, Nombres=MARISA, Telefono=299-4859302, Email=romeromar77@hotmail.com], V=19.0, B=12, CS=La Pampa 2092, CD=San Luis 677, P=false]}, 8000={4700=Pedido [O=8000, D=4700, F=28/10/2020, C=Cliente [DOC=DNI:22483948, Apellidos=MARTINEZ, Nombres=IGNACIO, Telefono=299-5479273, Email=nachomartinez013@gmail.com], V=11.0, B=4, CS=Jujuy 893, CD=Roca 1902, P=true]}, 8500={9410=Pedido [O=8500, D=9410, F=02/09/2023, C=Cliente [DOC=DNI:41382039, Apellidos=GOMEZ, Nombres=FEDERICO, Telefono=911-4849302, Email=fedegomez023@gmail.com], V=9.3, B=4, CS=Belgrano 923, CD=Cordoba 409, P=true], 3300=Pedido [O=8500, D=3300, F=12/09/2020, C=Cliente [DOC=PAS:19382093, Apellidos=JEREZ, Nombres=EZEQUIEL, Telefono=351-9320410, Email=ezejerez111@gmail.com], V=10.0, B=9, CS=Mendoza 412, CD=Buenos Aires 1092, P=true]}, 3400={8300=Pedido [O=3400, D=8300, F=19/12/2023, C=Cliente [DOC=DNI:33294039, Apellidos=HERRERA, Nombres=JOAQUIN, Telefono=299-4937495, Email=joacoherrera01@gmail.com], V=23.0, B=9, CS=Belgrano 1200, CD=Mitre 3100, P=false]}, 3000={2000=Pedido [O=3000, D=2000, F=09/09/2023, C=Cliente [DOC=PAS:39204123, Apellidos=DIAZ, Nombres=ENRIQUE, Telefono=299-4810384, Email=diazenrique93@hotmail.com], V=12.9, B=6, CS=Salta 922, CD=San Luis 322, P=false], 9103=Pedido [O=3000, D=9103, F=28/09/2021, C=Cliente [DOC=DNI:44912018, Apellidos=PEREZ, Nombres=ENZO NICOLAS, Telefono=911-4685902, Email=enzonicop24@gmail.com], V=11.0, B=8, CS=La Rioja 912, CD=Oneto 921, P=true]}, 4200={4600=Pedido [O=4200, D=4600, F=29/06/2022, C=Cliente [DOC=DNI:43382940, Apellidos=URRUTIA, Nombres=MILAGROS, Telefono=299-6382983, Email=miliurrutia32@gmail.com], V=19.0, B=9, CS=Salta 3092, CD=Sarmiento 841, P=true]}, 8300={8403=Pedido [O=8300, D=8403, F=12/03/2020, C=Cliente [DOC=DNI:42903849, Apellidos=MEDINA, Nombres=GERMAN, Telefono=298-4920876, Email=germedina92@gmail.com], V=9.0, B=5, CS=Roca 1329, CD=Lote 52, P=true], 8324=Pedido [O=8300, D=8324, F=23/12/2022, C=Cliente [DOC=DNI:38940293, Apellidos=FERNANDEZ, Nombres=ENZO JEREMIAS, Telefono=911-6821239, Email=enzofer912@gmail.com], V=21.0, B=11, CS=Av. del Trabajador 992, CD=San Martin 1230, P=true] | Pedido [O=8300, D=8324, F=02/03/2022, C=Cliente [DOC=PAS:21923847, Apellidos=MARTINEZ, Nombres=GRACIELA, Telefono=351-4348260, Email=martinezgraciela13@hotmail.com], V=9.0, B=4, CS=Av. Olascoaga 232, CD=Alem 421, P=true], 8311=Pedido [O=8300, D=8311, F=12/08/2023, C=Cliente [DOC=DNI:44103259, Apellidos=JALENIECKI, Nombres=JEREMIAS, Telefono=299-6379636, Email=jalenieckijeremias@gmail.com], V=13.0, B=5, CS=Sarmiento 3400, CD=Roca 2100, P=true]}, 3500={8000=Pedido [O=3500, D=8000, F=30/08/2023, C=Cliente [DOC=DNI:33291248, Apellidos=ROMERO, Nombres=MARISA, Telefono=299-4859302, Email=romeromar77@hotmail.com], V=12.0, B=5, CS=Jujuy 231, CD=Salta 329, P=false]}, 1900={2000=Pedido [O=1900, D=2000, F=09/02/2024, C=Cliente [DOC=PAS:39204123, Apellidos=DIAZ, Nombres=ENRIQUE, Telefono=299-4810384, Email=diazenrique93@hotmail.com], V=19.0, B=4, CS=Corrientes 332, CD=La Pampa 2910, P=false], 3000=Pedido [O=1900, D=3000, F=07/07/2023, C=Cliente [DOC=DNI:39720932, Apellidos=RAMIREZ, Nombres=JUAN IGNACIO, Telefono=299-5829384, Email=juanignacioram@hotmail.com.ar], V=13.0, B=6, CS=Entre Rios 921, CD=Salta 728, P=true]}}
+
+Clientes:
+{PAS:19382093=Cliente [DOC=PAS:19382093, Apellidos=JEREZ, Nombres=EZEQUIEL, Telefono=351-9320410, Email=ezejerez111@gmail.com], DNI:23931210=Cliente [DOC=DNI:23931210, Apellidos=ALONSO, Nombres=NORBERTO OSVALDO, Telefono=911-4930123, Email=betoalonso@yahoo.com.ar], PAS:39204123=Cliente [DOC=PAS:39204123, Apellidos=DIAZ, Nombres=ENRIQUE, Telefono=299-4810384, Email=diazenrique93@hotmail.com], DNI:33294039=Cliente [DOC=DNI:33294039, Apellidos=HERRERA, Nombres=JOAQUIN, Telefono=299-4937495, Email=joacoherrera01@gmail.com], DNI:42903849=Cliente [DOC=DNI:42903849, Apellidos=MEDINA, Nombres=GERMAN, Telefono=298-4920876, Email=germedina92@gmail.com], DNI:43382940=Cliente [DOC=DNI:43382940, Apellidos=URRUTIA, Nombres=MILAGROS, Telefono=299-6382983, Email=miliurrutia32@gmail.com], DNI:29380839=Cliente [DOC=DNI:29380839, Apellidos=SANCHEZ, Nombres=MARCELA, Telefono=299-5923049, Email=marcelasanchez22@yahoo.com.ar], DNI:43932048=Cliente [DOC=DNI:43932048, Apellidos=HERNANDEZ, Nombres=FERNANDO, Telefono=298-5394722, Email=hernandezfer@gmail.com], DNI:41382039=Cliente [DOC=DNI:41382039, Apellidos=GOMEZ, Nombres=FEDERICO, Telefono=911-4849302, Email=fedegomez023@gmail.com], DNI:33291248=Cliente [DOC=DNI:33291248, Apellidos=ROMERO, Nombres=MARISA, Telefono=299-4859302, Email=romeromar77@hotmail.com], DNI:32920192=Cliente [DOC=DNI:32920192, Apellidos=GALLARDO, Nombres=MARCELO DANIEL, Telefono=911-6387212, Email=muniecoeterno@hotmail.com], PAS:21923847=Cliente [DOC=PAS:21923847, Apellidos=MARTINEZ, Nombres=GRACIELA, Telefono=351-4348260, Email=martinezgraciela13@hotmail.com], DNI:38940293=Cliente [DOC=DNI:38940293, Apellidos=FERNANDEZ, Nombres=ENZO JEREMIAS, Telefono=911-6821239, Email=enzofer912@gmail.com], PAS:19324027=Cliente [DOC=PAS:19324027, Apellidos=GRAMAJO, Nombres=AGOSTINA, Telefono=299-5487839, Email=agosgrama0@gmail.com], DNI:39720932=Cliente [DOC=DNI:39720932, Apellidos=RAMIREZ, Nombres=JUAN IGNACIO, Telefono=299-5829384, Email=juanignacioram@hotmail.com.ar], DNI:22483948=Cliente [DOC=DNI:22483948, Apellidos=MARTINEZ, Nombres=IGNACIO, Telefono=299-5479273, Email=nachomartinez013@gmail.com], PAS:23239487=Cliente [DOC=PAS:23239487, Apellidos=FIGUEROA, Nombres=HERNANDO, Telefono=911-5374921, Email=herfigueroaa@hotmail.com], DNI:44912018=Cliente [DOC=DNI:44912018, Apellidos=PEREZ, Nombres=ENZO NICOLAS, Telefono=911-4685902, Email=enzonicop24@gmail.com], DNI:44103259=Cliente [DOC=DNI:44103259, Apellidos=JALENIECKI, Nombres=JEREMIAS, Telefono=299-6379636, Email=jalenieckijeremias@gmail.com], DNI:29384795=Cliente [DOC=DNI:29384795, Apellidos=FERNANDEZ, Nombres=MARCELO, Telefono=911-5428490, Email=marcefer123@yahoo.com.ar]}
+------------------------------
